@@ -1,2 +1,2 @@
-# Blog-REST-API
+# Blog REST API
 Proyecto de prueba de una API REST.
